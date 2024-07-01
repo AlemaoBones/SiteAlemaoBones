@@ -9,6 +9,14 @@
     box-sizing: border-box;
 }
 
+.textoQuemsomos
+{
+    font-size: 22px;
+    
+}
+
+
+
 a
 {
     color: black;
@@ -37,8 +45,8 @@ main
 {
     background-color: hsl(0, 0%, 100%);
     width: 100%;
-    height: 105px;
-    padding: 2px;
+    height: 150px;
+    padding: 1px;
 }
 .adidass
 {
@@ -67,7 +75,8 @@ main
 
 .logoalemao
 {
-  height: 80px;
+  height: 180px;
+  
 }
 
 .colorlupas
@@ -160,6 +169,6 @@ main
     .marcasPro
     {
         flex-direction: column;
-        height: 110px;
+        height: 95px;
     }
 }
